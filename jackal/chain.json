@@ -1,4 +1,4 @@
-{
+[ {
   "$schema": "../chain.schema.json",
   "chain_name": "jackal",
   "chain_id": "jackal-1",
@@ -252,4 +252,4 @@
       "tx_page": "https://exp.nodeist.net/jackal/tx/${txHash}"
     }
   ]
-}
+}]
